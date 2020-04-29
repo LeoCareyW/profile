@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2&family=Nunito:ital,wght@0,400;1,300&family=Roboto+Condensed:ital,wght@1,300&display=swap');
+
+@media (max-width: 960px) {
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {}
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+  }
+}
+
+body {
+  background-color: white;
+
+}
+
+.card-white {
+  background-color: #F0F0F0;
+  padding: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 230px;
+  margin-right: 230px;
+  border: 50px;
+  text-align: center;
+  border-radius: 20px;
+  box-shadow: 0 10px 10px rgba(0,0,0,.1);
+}
+
+h1 {
+  color: #333333;
+  font-family: 'Baloo Tamma 2', cursive;
+  font-size: 25px;
+}
+
+h2 {
+  color: #333333;
+  font-family: 'Nunito', sans-serif;
+  font-size: 18px;
+}
+
+li, ul {
+  color: #333333;
+}
+
+p {
+  color: #333333;
+  font-family: 'Nunito', sans-serif;
+}
+
+img {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+button {
+  background-color: #F0F0F0;
+  border: none;
+  font-family: 'Nunito', sans-serif;
+  color: #333333;
+  padding: 5px 5px;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+#social-networks {
+  background-color: #222831;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 580px;
+  margin-right: 580px;
+  border: 50px;
+  text-align: center;
+  border-radius: 20px;
+}
+
+#social {
+  color: #40BAD5;
+  font-size: 50px;
+  text-align: center;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
